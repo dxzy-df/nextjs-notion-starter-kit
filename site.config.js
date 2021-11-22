@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Transitive Bullshit',
   domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'df',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: '',
+  github: 'dxzy-df',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
